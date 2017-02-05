@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1486172705 source:d:\moja_radionica\projekat_1\project_1\main.cpp
+	<iostream>
+	"main.hpp"
+	"sort.hpp"
+	<cstdlib>
+
+1486161546 d:\moja_radionica\projekat_1\project_1\main.hpp
+
+1486172618 d:\moja_radionica\projekat_1\project_1\sort.hpp
+
+1486172605 source:d:\moja_radionica\projekat_1\project_1\sort.cpp
+	"sort.hpp"
+	<iostream>
+
